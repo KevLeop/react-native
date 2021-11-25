@@ -14,7 +14,7 @@ const DimensionsScreen = () => {
   return (
     <View>
       <View style={styles.container}>
-        <View style={{...styles.purpleBox, width: width * 2}} />
+        <View style={{...styles.purpleBox, width: width * 0.2}} />
         <View style={styles.orangeBox} />
       </View>
       <Text style={styles.title}>
